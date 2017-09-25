@@ -1693,6 +1693,28 @@ body {
     font-size: 0.8rem;
   }
 }
+.cid-qwg2yYMgnU {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-qwg2yYMgnU .mbr-figure {
+  padding: 0;
+}
+.cid-qwg2yYMgnU .content-row {
+  background-color: #0c57bf;
+}
+.cid-qwg2yYMgnU .content-row .media-content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url("../../../assets/images/background2.jpg");
+}
+.cid-qwg2yYMgnU .content-row .media-content .mbr-overlay {
+  background: linear-gradient(90deg, #0c57bf, #6441a5);
+}
+.cid-qwg2yYMgnU .content-row .media-content .content-block {
+  z-index: 1;
+}
 .cid-quWv2bk23K {
   padding-top: 90px;
   padding-bottom: 90px;
