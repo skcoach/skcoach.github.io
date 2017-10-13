@@ -2894,7 +2894,9 @@
       "settings": {
         "title": "Page 3",
         "order": 1,
-        "header_custom": "<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1746345662245656.js\" async=\"async\">\n</script>"
+        "header_custom": "<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1746345662245656.js\" async=\"async\">\n</script>",
+        "footer_custom": "<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1746345662245656.js\" async=\"async\">\n</script>",
+        "html_before": "<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1746345662245656.js\" async=\"async\">\n</script>"
       },
       "components": [
         {
