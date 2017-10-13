@@ -38,9 +38,9 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1746345662245656.js\" async=\"async\">\n</script>",
         "footer_custom": "",
-        "html_before": "<!-- ManyChat -->\n<script src=\"//widget.manychat.com/1746345662245656.js\" async=\"async\">\n</script>"
+        "html_before": ""
       },
       "components": [
         {
