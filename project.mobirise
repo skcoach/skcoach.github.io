@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-14_1759",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "agencym 4",
       "title": "Agency M 4",
@@ -267,7 +267,7 @@
       "settings": {
         "title": "Page 1",
         "meta_descr": "",
-        "header_custom": "<!<!-- ManyChat -->\n<script src=\"//widget.manychat.com/799481180127370.js\" async=\"async\">\n</script>",
+        "header_custom": "<!-- ManyChat -->\n<script src=\"//widget.manychat.com/799481180127370.js\" async=\"async\">\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": 1
