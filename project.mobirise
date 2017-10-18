@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.3.4",
     "favicon": "@PROJECT_PATH@/assets/images/fav-cr-124x126.png",
     "noImageResize": "",
@@ -447,17 +447,17 @@
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/njVyfiPjNAM",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/logo.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "videoUrl": "<iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fconsiljeri%2Fvideos%2F1458043354249403%2F&show_text=0&width=560\" width=\"560\" height=\"315\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allowFullScreen=\"true\"></iframe>",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -531,6 +531,31 @@
           "allItem": "ALL",
           "_name": "gallery2",
           "_anchor": "gallery2-8"
+        },
+        {
+          "_params": {
+            "blockTitle": "<h3>Видео с практикумов</h3>",
+            "HTMLCode": "<h1>https://www.facebook.com/consiljeri/videos/1458043354249403/</h1>\n<iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fconsiljeri%2Fvideos%2F1458043354249403%2F&show_text=0&width=560\" width=\"560\" height=\"315\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allowFullScreen=\"true\"></iframe>\n",
+            "extEdit": true,
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "blockTitle": "<h3>Видео с практикумов</h3>",
+          "HTMLCode": "<h1>https://www.facebook.com/consiljeri/videos/1458043354249403/</h1>\n<iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fconsiljeri%2Fvideos%2F1458043354249403%2F&show_text=0&width=560\" width=\"560\" height=\"315\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allowFullScreen=\"true\"></iframe>\n",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-j"
         },
         {
           "_styles": {
